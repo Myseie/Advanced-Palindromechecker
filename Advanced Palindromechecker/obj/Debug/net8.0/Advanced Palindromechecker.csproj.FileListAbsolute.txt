@@ -1,0 +1,14 @@
+D:\Programmering\Programmering\Advanced Palindromechecker\bin\Debug\net8.0\Advanced Palindromechecker.exe
+D:\Programmering\Programmering\Advanced Palindromechecker\bin\Debug\net8.0\Advanced Palindromechecker.deps.json
+D:\Programmering\Programmering\Advanced Palindromechecker\bin\Debug\net8.0\Advanced Palindromechecker.runtimeconfig.json
+D:\Programmering\Programmering\Advanced Palindromechecker\bin\Debug\net8.0\Advanced Palindromechecker.dll
+D:\Programmering\Programmering\Advanced Palindromechecker\bin\Debug\net8.0\Advanced Palindromechecker.pdb
+D:\Programmering\Programmering\Advanced Palindromechecker\obj\Debug\net8.0\Advanced Palindromechecker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\Advanced Palindromechecker\obj\Debug\net8.0\Advanced Palindromechecker.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\Advanced Palindromechecker\obj\Debug\net8.0\Advanced Palindromechecker.AssemblyInfo.cs
+D:\Programmering\Programmering\Advanced Palindromechecker\obj\Debug\net8.0\Advanced Palindromechecker.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\Advanced Palindromechecker\obj\Debug\net8.0\Advanced Palindromechecker.dll
+D:\Programmering\Programmering\Advanced Palindromechecker\obj\Debug\net8.0\refint\Advanced Palindromechecker.dll
+D:\Programmering\Programmering\Advanced Palindromechecker\obj\Debug\net8.0\Advanced Palindromechecker.pdb
+D:\Programmering\Programmering\Advanced Palindromechecker\obj\Debug\net8.0\Advanced Palindromechecker.genruntimeconfig.cache
+D:\Programmering\Programmering\Advanced Palindromechecker\obj\Debug\net8.0\ref\Advanced Palindromechecker.dll
